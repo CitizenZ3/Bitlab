@@ -1,0 +1,46 @@
+<meta charset="utf-8">
+
+<html>
+<title>
+Avatar
+</title>
+<body>
+    <table cellpadding = "10">
+        <thead>
+            <tr>
+                <th>Фото</th>
+                <th>Имя</th>
+                <th>Стихия</th>
+                <th>Википедия</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="Ank.jpeg" weight="50"></td>
+                <td>Анг</td>
+                <td><img src="Avatar.jpeg" weight="50"></td>
+                <td>https://ru.wikipedia.org/wiki/Список_персонажей_мультсериала_«Аватар:_Легенда_об_Аанге»#Катара</td>
+            </tr>
+            <tr>
+                <td>Mercedes</td>
+                <td>E230</td>
+                <td>2010</td>
+                <td>12000$</td>
+            </tr>
+            <tr>
+                <td>Lexus</td>
+                <td>RX330</td>
+                <td>2008</td>
+                <td>10000$</td>
+            </tr>
+            <tr>
+                <td>KIA</td>
+                <td>RIO</td>
+                <td>2014</td>
+                <td>10000$</td>
+            </tr>
+    
+</body>
+
+
+</html>
